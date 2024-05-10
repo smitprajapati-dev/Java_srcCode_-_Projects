@@ -1,4 +1,3 @@
-package com.codewithharry.shape;
 
 public class Rectangle extends Shape {
     Rectangle(int dim1,int dim2){
