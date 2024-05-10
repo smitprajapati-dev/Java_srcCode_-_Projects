@@ -48,6 +48,7 @@ public class RockPaperSeasor {
             if(!playAgain.equals("y")){
                 break;
             }
+            scanner.close();
         }
     }
 
